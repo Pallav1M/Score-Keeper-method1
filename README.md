@@ -1,5 +1,5 @@
 # Score-Keeper-method1
-This is an elaborate project using DOM
+This is an elaborate project using DOM, and Bulma (CSS Framework)
 
 **Contents of the repository**
 This repository contains two files - one HTML and one JavaScript.
